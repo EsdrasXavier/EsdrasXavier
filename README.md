@@ -14,4 +14,4 @@
 <br />
 
 [instagram]: https://www.instagram.com/esdras__xavier
-[linkedin]: www.linkedin.com/in/esdras-xavier
+[linkedin]: https://www.linkedin.com/in/esdras-xavier
