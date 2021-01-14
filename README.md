@@ -5,7 +5,7 @@
 - 👨‍💻 I’m currently working on WEG
 - 🤣 I’m currently learning everything
 - 🆕 I love learn new things
-- 🤗 2020 Goals: Learn Ruby and Flutter
+- 🤗 2021 Goals: Learn Flutter and become expert in Java Spring Boot
 
 ### Connect with me:
 [<img align="left" alt="esdras-xavier | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
