@@ -1,8 +1,8 @@
-## Hi there, I'm Esdras Xavier
+## Hi there, my name is Esdras Xavier
 
-## I'm a Developer and future Software Engineer!
+## I'm a Software Engineer!
 
-- 👨‍💻 I’m currently working for WEG
+- 👨‍💻 I’m currently working for Kuehne-Nagel
 - 🤣 I’m currently learning everything
 - 🆕 I love learn new things
 - 🤗 2021 Goals: Become expert in Java with Spring Boot and microservices.
