@@ -2,7 +2,7 @@
 
 ## I'm a Software Engineer!
 
-- 👨‍💻 I’m currently working for Kuehne-Nagel
+- 👨‍💻 I’m currently working for Kuehne+Nagel
 - 🤣 I’m currently learning everything
 - 🆕 I love learn new things
 - 🤗 2021 Goals: Become expert in Java with Spring Boot and microservices.
