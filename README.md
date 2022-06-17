@@ -5,7 +5,7 @@
 - 👨‍💻 I’m currently working for Kuehne+Nagel
 - 🤣 I’m currently learning everything
 - 🆕 I love learn new things
-- 🤗 2022 Goals: Become expert in Java with Spring Boot and microservices and learn Russian.
+- 🤗 2022 Goals: Become expert in Java with Spring Boot and microservices and learn Estonian.
 
 ### Connect with me:
 [<img align="left" alt="esdras-xavier | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
