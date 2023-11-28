@@ -11,8 +11,10 @@
 ### Connect with me:
 [<img align="left" alt="esdras-xavier | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
 [<img align="left" alt="Esdras Xavier | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
+[<img align="left" alt="Esdras Xavier | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/youtube.svg" />][youtube]
 
 <br />
 
 [instagram]: https://www.instagram.com/esdras__xavier
 [linkedin]: https://www.linkedin.com/in/esdras-xavier
+[youtube]: https://youtube.com/@esdras_xavier?si=ritY5c5PnnPzATPb
