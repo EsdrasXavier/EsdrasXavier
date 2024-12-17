@@ -11,10 +11,17 @@ I am an experienced software developer with 5+ years of expertise in building sy
 - 2025 Goals: Become a tech lead, learn new languages
 - You can find my speech about clean code on [YouTube!](https://youtu.be/GsZNC6IQCQw?si=kQuXGg0xkpnBuJZu)
 
+#### My top languages
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=EsdrasXavier&hide=vue&theme=tokyonight)
+
+
+----
+
 ### Connect with me:
 [<img align="left" alt="esdras-xavier | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
 [<img align="left" alt="Esdras Xavier | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
 [<img align="left" alt="Esdras Xavier | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/youtube.svg" />][youtube]
+
 
 <br />
 
