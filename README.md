@@ -1,12 +1,15 @@
-## Hi there, my name is Esdras Xavier
+## Hello there 👋
 
-## I'm a Senior Software Engineer @ [Ridango](https://ridango.com/)!
+### My name is Esdras Xavier, and work as a Senior Software Engineer @ [Ridango](https://ridango.com/)!
 
-- 👨‍💻 Currently working for Ridango
-- 🤣 Currently learning everything
-- 🆕 I love learning new things
-- 🤗 2023 Goals: Learn some Estonian and learn more about infrastructure
-- 📚 You can find my speech about clean code on [YouTube!](https://youtu.be/GsZNC6IQCQw?si=kQuXGg0xkpnBuJZu)
+I am an experienced software developer with 5+ years of expertise in building systems using design patterns and agile methods. I have a strong technical background and excellent communication skills. I enjoy learning new things and always strive to improve myself, ensuring I can deliver the best solutions to problems.
+
+#### Some info about me
+- I love learning new things
+- I love playing video games 🎮
+- I've worked the most using Java, however, I have had some experience with C/C++, JS, TS, Python
+- 2025 Goals: Become a tech lead, learn new languages
+- You can find my speech about clean code on [YouTube!](https://youtu.be/GsZNC6IQCQw?si=kQuXGg0xkpnBuJZu)
 
 ### Connect with me:
 [<img align="left" alt="esdras-xavier | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
